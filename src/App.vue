@@ -1,8 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import './assets/base.css'
+</script>
 
 <template>
   <main>
-    <div class="text-red-500">Hello</div>
+    <Button label="Submit" />
   </main>
 </template>
 
