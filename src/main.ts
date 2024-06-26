@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import PrimeVue from 'primevue/config'
 import './style.css'
-import lara from './presets/lara'
+import lara from './presets/ts/lara'
 
 import App from './App.vue'
 import router from './router'

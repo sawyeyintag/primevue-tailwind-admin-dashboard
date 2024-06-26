@@ -5,6 +5,7 @@ import './assets/base.css'
 <template>
   <main>
     <Button label="Submit" />
+    <h1 class="text-red-500">Hello</h1>
   </main>
 </template>
 
